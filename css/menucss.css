@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .menubar {
+    display: flex;
+    background-color: #3f51b5;
+    padding-left: 55px;
+    width: 1268px;
+    font-weight: 300;
+  }
+
+  .menubar a{
+    padding: 14px 20px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+  }
+  .normal{    color: white;
+  }
+  .active {
+    background-color: #fff;
+    color: black}

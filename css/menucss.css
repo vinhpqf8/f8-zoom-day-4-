@@ -22,3 +22,5 @@ body {
   .active {
     background-color: #fff;
     color: black}
+    img{width: 48px;
+    height: 48px;}
